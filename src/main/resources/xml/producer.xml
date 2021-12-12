@@ -1,0 +1,3 @@
+<Container>
+   <object class="ru.sfedu.Lab1.model.beans.Producer" id="3" name="Maria" lastname="Krikovskaya" address="Jmaylova 15"/>
+</Container>

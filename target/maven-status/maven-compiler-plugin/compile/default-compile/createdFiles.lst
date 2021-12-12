@@ -1,0 +1,11 @@
+ru\sfedu\Lab1\api\DataProviderCsv.class
+ru\sfedu\Lab1\api\DataProviderXML.class
+ru\sfedu\Lab1\Constants.class
+ru\sfedu\Lab1\api\IDataprovider.class
+ru\sfedu\Lab1\api\DataProviderJDBC.class
+ru\sfedu\Lab1\model\beans\Status.class
+ru\sfedu\Lab1\model\beans\Result.class
+ru\sfedu\Lab1\model\beans\Producer.class
+ru\sfedu\Lab1\Main_L1.class
+ru\sfedu\Lab1\model\beans\WrapperXML.class
+ru\sfedu\Lab1\utils\ConfigurationUtil.class
